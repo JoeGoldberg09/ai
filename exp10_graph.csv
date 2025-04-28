@@ -1,0 +1,11 @@
+node1,node2,weight
+A,B,4
+A,C,3
+B,D,5
+B,E,12
+C,E,10
+C,D,5
+D,F,7
+E,F,9
+E,G,5
+F,G,4
